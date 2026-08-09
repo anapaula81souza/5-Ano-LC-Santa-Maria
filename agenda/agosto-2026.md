@@ -16,7 +16,8 @@
 | 23 | [24](agosto/24.md) | [25](agosto/25.md) | [26](agosto/26.md) | [27](agosto/27.md) | [28](agosto/28.md) | [29](agosto/29.md) |
 | 30 | [31](agosto/31.md) |     |     |     |     |     |
 
----
+| ⬅️ Julho de 2026 | [Setembro de 2026 ➡️](setembro-2026.md) |
+|:-----------------|----------------------------------------:|
 
 # 📌 Agenda do Mês
 
@@ -43,6 +44,7 @@
 **Tema:** Pesquisar uma cidade que gostaria de visitar.
 
 **Levar:**
+
 - Pesquisa
 - Imagens
 
@@ -106,13 +108,13 @@
 
 ## 22/08 — Sábado
 
-📚 **Sábado Letivo**
+🏫 **Sábado Letivo**
 
 ---
 
 ## 29/08 — Sábado
 
-📚 **Sábado Letivo**
+🏫 **Sábado Letivo**
 
 ---
 
