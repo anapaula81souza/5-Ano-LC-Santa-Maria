@@ -27,7 +27,7 @@
 
 📝 **Avaliação de Rede – Língua Estrangeira (LE)**
 
-📚 [Acessar material de estudo](../estudos/le/etapa-2/index.md)
+📚 [Acesse material de estudo](../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)
 
 ---
 
