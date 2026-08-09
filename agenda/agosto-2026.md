@@ -1,6 +1,6 @@
 # 📅 Agosto de 2026
 
-> 5º Ano LC – Colégio Santa Maria Minas
+> **5º Ano LC – Colégio Santa Maria Minas**
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -13,6 +13,13 @@
 
 ---
 
-## 📌 Navegação
+## Legenda
 
-- ← [Voltar para Agenda](../../agenda.md)
+🟢 **Aula normal**  
+🔴 **Prova / Simulado**  
+🟡 **Trabalho / Entrega**  
+🔵 **Evento**
+
+---
+
+[← Voltar para Agenda](../../agenda.md)
