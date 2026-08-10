@@ -61,12 +61,6 @@
 
 ---
 
-## 15/08 — Sábado
-
-🏖️ **Recesso Escolar**
-
----
-
 ## 17/08 — Segunda-feira
 
 📝 **Avaliação de Rede – CI**
