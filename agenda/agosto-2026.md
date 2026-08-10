@@ -37,7 +37,7 @@
 
 📝 **Avaliação de Rede – PIIL**
 
-📚 Acesse material de estudo
+📚 [Acesse material de estudo](../central-de-estudos/PIIL/2-etapa/11-08-26-avaliacao-de-rede/)
 
 ---
 
@@ -55,7 +55,7 @@
 
 📝 **Avaliação de Rede – ER**
 
-📚 Acesse material de estudo
+📚 [Acesse material de estudo](../central-de-estudos/ER/2-etapa/14-08-26-avaliacao-de-rede/)
 
 ---
 
