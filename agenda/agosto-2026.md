@@ -17,7 +17,7 @@
 | 30 | [31](agosto/31.md) |     |     |     |     |     |
 
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%; margin:12px 0;">
-  <span>⬅️ Julho de 2026</span>
+  <a href="julho-2026.md">⬅️ Julho de 2026</a>
   <a href="setembro-2026.md">Setembro de 2026 ➡️</a>
 </div>
 
