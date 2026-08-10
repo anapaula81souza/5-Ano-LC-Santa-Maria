@@ -1,14 +1,21 @@
 # 📚 Central de Estudos
 
-> **Língua Espanhola (LE)**  
-> **Avaliação de Rede – 10/08/2026**  
-> **2ª Etapa**
+> **Disciplina:** Língua Espanhola (LE)  
+> **Avaliação:** Avaliação de Rede  
+> **Data:** 10/08/2026  
+> **Etapa:** 2ª Etapa
 
 ---
 
 # 📄 Material de Estudo
 
-- 📄 [Trilhas de Estudos](./Trilhas%20de%20Estudo%20-%205%C2%BA%20Ano%20Avalia%C3%A7%C3%B5es%20de%20Rede%20-%20II%20Etapa%20-%20LE.pdf)
+- 📄 [Trilha de Estudos](./trilha-estudos-lingua-espanhola-avaliacao-rede-10-08.pdf)
+
+---
+
+# 📝 Anotações
+
+*Nenhuma.*
 
 ---
 
