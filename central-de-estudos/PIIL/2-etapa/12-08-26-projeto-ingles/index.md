@@ -24,16 +24,4 @@ Teacher Flaviane Dias
 
 ---
 
-# 📎 Material do Projeto
-
-📄 [Acessar material do projeto](material-projeto-ingles-unit-6.pdf)
-
----
-
-# 📌 Observações
-
-*Nenhuma.*
-
----
-
 [⬅️ Voltar para Agosto](../../../../agenda/agosto-2026.md)
