@@ -1,127 +1,63 @@
-# 📅 Agosto de 2026
+# 📅 Sexta-feira • 07/08/2026
 
-> **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**  
-> **2ª Etapa**
-
----
-
-## 📅 Calendário
-
-| Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     |     |     |     |     |     | 01 |
-| 02 | 03 | 04 | 05 | 06 | [07](agosto/07.md) | 08 |
-| 09 | [10](agosto/10.md) | [11](agosto/11.md) | [12](agosto/12.md) | [13](agosto/13.md) | [14](agosto/14.md) | 15 |
-| 16 | [17](agosto/17.md) | [18](agosto/18.md) | [19](agosto/19.md) | [20](agosto/20.md) | [21](agosto/21.md) | [22](agosto/22.md) |
-| 23 | [24](agosto/24.md) | [25](agosto/25.md) | [26](agosto/26.md) | [27](agosto/27.md) | [28](agosto/28.md) | [29](agosto/29.md) |
-| 30 | [31](agosto/31.md) |     |     |     |     |     |
-
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%; margin:12px 0;">
-  <span>⬅️ Julho de 2026</span>
-  <a href="setembro-2026.html">Setembro de 2026 ➡️</a>
-</div>
-
-<hr>
+> **5º Ano LC – Colégio Santa Maria Minas**
 
 ---
 
-# 📌 Agenda do Mês
+# 📝 Avaliações
 
-## 10/08 — Segunda-feira
-
-📝 **Avaliação de Rede – Língua Estrangeira (LE)**
-
-📚 [Acesse material de estudo](../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)
+*Nenhuma.*
 
 ---
 
-## 11/08 — Terça-feira
+# 📁 Trabalhos / Projetos
 
-📝 **Avaliação de Rede – PIIL**
-
-📚 [Acessar material de estudo](../estudos/piil/etapa-2/index.md)
+*Nenhum.*
 
 ---
 
-## 12/08 — Quarta-feira
+# 🏠 Para Casa
 
-📁 **Entrega do Projeto de LI – Unit 6**
+📌 **Projeto de LI – Unit 6**
 
-**Tema:** Pesquisar uma cidade que gostaria de visitar.
-
-**Levar:**
-
-- Pesquisa
-- Imagens
+**Tema:** *Bring a research and images about a city you would like to visit.*
 
 📖 **Referência:** Livro de LI – pág. 39.
 
 ---
 
-## 14/08 — Sexta-feira
-
-📝 **Avaliação de Rede – Ensino Religioso**
-
-📚 [Acessar material de estudo](../estudos/er/etapa-2/index.md)
+- ➗ **MA** – Págs. **89 a 91** (Suplementar)
 
 ---
 
-## 15/08 — Sábado
+- 📖 **LP** – Leitura do livro **As Aventuras do Tempo** (Míriam Leitão – Rocco Pequenos Leitores)
 
-🏖️ **Recesso Escolar**
+**Responder no caderno:**
 
----
+1. O que você aprendeu sobre o tempo lendo o livro?
+2. Qual parte da viagem dos personagens você achou mais interessante? Por quê?
+3. Se você pudesse viajar no tempo, para qual época gostaria de ir? Explique sua escolha.
 
-## 17/08 — Segunda-feira
-
-📝 **Avaliação de Rede – Ciências**
-
-📚 [Acessar material de estudo](../estudos/ciencias/etapa-2/index.md)
+💻 Realizar a atividade no SAS referente ao livro.
 
 ---
 
-## 18/08 — Terça-feira
-
-📝 **Avaliação de Rede – Língua Portuguesa**
-
-📚 [Acessar material de estudo](../estudos/portugues/etapa-2/index.md)
+- ❤️ **Sentir** – Página **26**
 
 ---
 
-## 19/08 — Quarta-feira
+# 🎒 Material para a próxima aula
 
-📝 **Avaliação de Rede – Geografia**
+📚 **Livros:** Suplementar de **MA**, **LP** e **CI**
 
-📚 [Acessar material de estudo](../estudos/geografia/etapa-2/index.md)
-
----
-
-## 20/08 — Quinta-feira
-
-📝 **Avaliação de Rede – Matemática**
-
-📚 [Acessar material de estudo](../estudos/matematica/etapa-2/index.md)
+📒 **Cadernos:** **LP**, **CI** e **HI**
 
 ---
 
-## 21/08 — Sexta-feira
+# 📌 Observações
 
-📝 **Avaliação de Rede – História**
-
-📚 [Acessar material de estudo](../estudos/historia/etapa-2/index.md)
+*Nenhuma.*
 
 ---
 
-## 22/08 — Sábado
-
-🏫 **Sábado Letivo**
-
----
-
-## 29/08 — Sábado
-
-🏫 **Sábado Letivo**
-
----
-
-[⬅️ Voltar para Agenda](../agenda.md)
+[⬅️ Voltar para Agosto](../agosto-2026.md)
