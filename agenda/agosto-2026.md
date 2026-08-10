@@ -1,24 +1,49 @@
-# 📅 Sexta-feira • 07/08/2026
+# 📅 Agosto de 2026
 
-> **5º Ano LC – Colégio Santa Maria Minas**
-
----
-
-# 📝 Avaliações
-
-*Nenhuma.*
+> **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**  
+> **2ª Etapa**
 
 ---
 
-# 📁 Trabalhos / Projetos
+## 📅 Calendário
 
-*Nenhum.*
+| Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     |     |     |     |     |     | 01 |
+| 02 | 03 | 04 | 05 | 06 | [07](agosto/07.md) | 08 |
+| 09 | [10](agosto/10.md) | [11](agosto/11.md) | [12](agosto/12.md) | [13](agosto/13.md) | [14](agosto/14.md) | 15 |
+| 16 | [17](agosto/17.md) | [18](agosto/18.md) | [19](agosto/19.md) | [20](agosto/20.md) | [21](agosto/21.md) | [22](agosto/22.md) |
+| 23 | [24](agosto/24.md) | [25](agosto/25.md) | [26](agosto/26.md) | [27](agosto/27.md) | [28](agosto/28.md) | [29](agosto/29.md) |
+| 30 | [31](agosto/31.md) |     |     |     |     |     |
+
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%; margin:12px 0;">
+  <span>⬅️ Julho de 2026</span>
+  <a href="setembro-2026.md">Setembro de 2026 ➡️</a>
+</div>
+
+<hr>
+
+# 📌 Agenda do Mês
+
+## 10/08 — Segunda-feira
+
+📝 **Avaliação de Rede – LE**
+
+📚 [Acesse material de estudo](../../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)
 
 ---
 
-# 🏠 Para Casa
+## 11/08 — Terça-feira
 
-📌 **Projeto de LI – Unit 6**
+📝 **Avaliação de Rede – PIIL**
+
+📚 Acesse material de estudo
+
+---
+
+## 12/08 — Quarta-feira
+
+📁 **Entrega do Projeto de LI – Unit 6**
 
 **Tema:** *Bring a research and images about a city you would like to visit.*
 
@@ -26,38 +51,70 @@
 
 ---
 
-- ➗ **MA** – Págs. **89 a 91** (Suplementar)
+## 14/08 — Sexta-feira
+
+📝 **Avaliação de Rede – ER**
+
+📚 Acesse material de estudo
 
 ---
 
-- 📖 **LP** – Leitura do livro **As Aventuras do Tempo** (Míriam Leitão – Rocco Pequenos Leitores)
+## 15/08 — Sábado
 
-**Responder no caderno:**
-
-1. O que você aprendeu sobre o tempo lendo o livro?
-2. Qual parte da viagem dos personagens você achou mais interessante? Por quê?
-3. Se você pudesse viajar no tempo, para qual época gostaria de ir? Explique sua escolha.
-
-💻 Realizar a atividade no SAS referente ao livro.
+🏖️ **Recesso Escolar**
 
 ---
 
-- ❤️ **Sentir** – Página **26**
+## 17/08 — Segunda-feira
+
+📝 **Avaliação de Rede – CI**
+
+📚 Acesse material de estudo
 
 ---
 
-# 🎒 Material para a próxima aula
+## 18/08 — Terça-feira
 
-📚 **Livros:** Suplementar de **MA**, **LP** e **CI**
+📝 **Avaliação de Rede – LP**
 
-📒 **Cadernos:** **LP**, **CI** e **HI**
-
----
-
-# 📌 Observações
-
-*Nenhuma.*
+📚 Acesse material de estudo
 
 ---
 
-[⬅️ Voltar para Agosto](../agosto-2026.md)
+## 19/08 — Quarta-feira
+
+📝 **Avaliação de Rede – GE**
+
+📚 Acesse material de estudo
+
+---
+
+## 20/08 — Quinta-feira
+
+📝 **Avaliação de Rede – MA**
+
+📚 Acesse material de estudo
+
+---
+
+## 21/08 — Sexta-feira
+
+📝 **Avaliação de Rede – HI**
+
+📚 Acesse material de estudo
+
+---
+
+## 22/08 — Sábado
+
+🏫 **Sábado Letivo**
+
+---
+
+## 29/08 — Sábado
+
+🏫 **Sábado Letivo**
+
+---
+
+[⬅️ Voltar para Agenda](../agenda.md)
