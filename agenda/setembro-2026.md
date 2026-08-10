@@ -2,4 +2,4 @@
 
 ---
 
-[⬅️ Voltar para Agosto](agosto-2026.md)
+[⬅️ Voltar para Agosto de 2026](agosto-2026.md)
