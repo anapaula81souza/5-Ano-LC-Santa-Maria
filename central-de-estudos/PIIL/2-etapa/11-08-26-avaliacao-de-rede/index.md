@@ -9,7 +9,7 @@
 
 # 📄 Material de Estudo
 
-- 📄 [Trilha de Estudos](trilha-estudos-piil-avaliacao-rede-11-08.pdf)
+- 📄 [Trilha de Estudos](trilha-estudos-PIIL-avaliacao-rede-11-08.pdf)
 
 ---
 
