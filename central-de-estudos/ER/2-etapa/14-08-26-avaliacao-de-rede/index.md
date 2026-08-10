@@ -9,7 +9,7 @@
 
 # 📄 Material de Estudo
 
-📄 [Acessar Trilha de Estudos](trilha-estudos-ER-avaliacao-rede-14-08.pdf)
+📄 [Trilha de Estudos](trilha-estudos-ER-avaliacao-rede-14-08.pdf)
 
 ---
 
