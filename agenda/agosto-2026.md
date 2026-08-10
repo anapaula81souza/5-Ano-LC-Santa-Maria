@@ -29,7 +29,7 @@
 
 📝 **Avaliação de Rede – LE**
 
-📚 [Acesse material de estudo](../../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)
+📚 [Acesse material de estudo](../../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)](https://anapaula81souza.github.io/5-Ano-LC-Santa-Maria/central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/)
 
 ---
 
