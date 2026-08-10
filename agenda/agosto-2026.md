@@ -49,6 +49,8 @@
 
 📖 **Referência:** Livro de LI – pág. 39.
 
+📎 [Acessar material do projeto](../central-de-estudos/PIIL/2-etapa/12-08-26-projeto-ingles/)
+
 ---
 
 ## 14/08 — Sexta-feira
