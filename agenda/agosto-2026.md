@@ -16,8 +16,12 @@
 | 23 | [24](agosto/24.md) | [25](agosto/25.md) | [26](agosto/26.md) | [27](agosto/27.md) | [28](agosto/28.md) | [29](agosto/29.md) |
 | 30 | [31](agosto/31.md) |     |     |     |     |     |
 
-| ⬅️ Julho de 2026 | [Setembro de 2026 ➡️](setembro-2026.md) |
-|:-----------------|----------------------------------------:|
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%; margin:12px 0;">
+  <span>⬅️ Julho de 2026</span>
+  <a href="setembro-2026.html">Setembro de 2026 ➡️</a>
+</div>
+
+<hr>
 
 ---
 
