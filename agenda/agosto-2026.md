@@ -33,8 +33,6 @@
 
 ---
 
----
-
 ## 11/08 — Terça-feira
 
 📝 **Avaliação de Rede – PIIL**
