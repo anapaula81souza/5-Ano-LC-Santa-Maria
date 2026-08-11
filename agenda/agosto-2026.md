@@ -76,9 +76,7 @@
 
 📝 **Avaliação de Rede – CI**
 
-📚 Acesse material de estudo
-
-
+📚 [Trilha de Estudos](../central-de-estudos/CI/2-etapa/17-08-26-avaliacao-de-rede/trilha-estudos-CI-avaliacao-rede-17-08.pdf)
 
 ⏰ **Prazo Final – Atividade de LE**
 
@@ -90,7 +88,7 @@
 
 📝 **Avaliação de Rede – LP**
 
-📚 Acesse material de estudo
+📚 [Trilha de Estudos](../central-de-estudos/LP/2-etapa/18-08-26-avaliacao-de-rede/trilha-estudos-LP-avaliacao-rede-18-08.pdf)
 
 ---
 
@@ -98,7 +96,7 @@
 
 📝 **Avaliação de Rede – GE**
 
-📚 Acesse material de estudo
+📚 [Trilha de Estudos](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/trilha-estudos-GE-avaliacao-rede-19-08.pdf)
 
 ---
 
@@ -106,7 +104,7 @@
 
 📝 **Avaliação de Rede – MA**
 
-📚 Acesse material de estudo
+📚 [Trilha de Estudos](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/trilha-estudos-MA-avaliacao-rede-20-08.pdf)
 
 ---
 
@@ -114,7 +112,7 @@
 
 📝 **Avaliação de Rede – HI**
 
-📚 Acesse material de estudo
+📚 [Trilha de Estudos](../central-de-estudos/HI/2-etapa/21-08-26-avaliacao-de-rede/trilha-estudos-HI-avaliacao-rede-21-08.pdf)
 
 ---
 
