@@ -43,9 +43,9 @@
 
 ▶️ [Assistir Vídeo 1](https://youtu.be/0b4rsDuzThE?feature=shared)
 
-▶️ [Assitir Vídeo 2](https://youtu.be/ZtIAKWPz7Ds?feature=shared)
+▶️ [Assistir Vídeo 2](https://youtu.be/ZtIAKWPz7Ds?feature=shared)
 
-▶️ [Assitir Vídeo 3](https://youtu.be/f3x6XUIZ6p8?feature=shared)
+▶️ [Assistir Vídeo 3](https://youtu.be/f3x6XUIZ6p8?feature=shared)
 
 ▶️ [Assistir Vídeo 4](https://youtu.be/U-r-xHln6nE?feature=shared)
 
