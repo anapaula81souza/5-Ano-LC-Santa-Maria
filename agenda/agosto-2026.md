@@ -79,6 +79,7 @@
 📚 Acesse material de estudo
 
 
+
 ⏰ **Prazo Final – Atividade de LE**
 
 🇪🇸 Livro didático: leitura da pág. **66** e atividade de interpretação da pág. **67** 🕚 **Prazo:** 17/08/2026 até **11h00**
