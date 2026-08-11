@@ -15,12 +15,9 @@
 | [20](setembro/20.md) | [21](setembro/21.md) | [22](setembro/22.md) | [23](setembro/23.md) | [24](setembro/24.md) | [25](setembro/25.md) | [26](setembro/26.md) |
 | [27](setembro/27.md) | [28](setembro/28.md) | [29](setembro/29.md) | [30](setembro/30.md) |                     |                     |                     |
 
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%; margin:12px 0;">
-  <a href="agosto-2026.md">⬅️ Agosto de 2026</a>
-  <a href="outubro-2026.md">Outubro de 2026 ➡️</a>
-</div>
+[⬅️ Agosto de 2026](agosto-2026.md) | [Outubro de 2026 ➡️](outubro-2026.md)
 
-<hr>
+---
 
 # 📌 Agenda do Mês
 
