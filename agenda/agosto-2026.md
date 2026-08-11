@@ -41,6 +41,20 @@
 
 📚 [Trilha de Estudos](../central-de-estudos/PIIL/2-etapa/11-08-26-avaliacao-de-rede/trilha-estudos-PIIL-avaliacao-rede-11-08.pdf)
 
+▶️ [Assistir Vídeo 1](https://youtu.be/0b4rsDuzThE?feature=shared)
+
+▶️ [Assitir Vídeo 2](https://youtu.be/ZtIAKWPz7Ds?feature=shared)
+
+▶️ [Assitir Vídeo 3](https://youtu.be/f3x6XUIZ6p8?feature=shared)
+
+▶️ [Assistir Vídeo 4](https://youtu.be/U-r-xHln6nE?feature=shared)
+
+▶️ [Assistir Vídeo 5](https://youtu.be/tGWiowdjnHk?feature=shared)
+
+▶️ [Assistir Vídeo 6](https://youtu.be/sk7pwVYJctE?is=KuGpJy3rbed-w7ST)
+
+▶️ [Assistir Vídeo 7](https://youtu.be/KcL5LVbo07I?feature=shared)
+
 ---
 
 ## 12/08 — Quarta-feira
