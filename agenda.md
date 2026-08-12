@@ -1,4 +1,4 @@
-# 🗓️ Acompanhamento da Rotina Escolar
+# 🗓️ Rotina Escolar
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
@@ -16,7 +16,7 @@ Escolha o mês que deseja consultar:
 
 ## 📌 O que você encontra aqui
 
-O calendario escolar da turma organizado por dia e mês, incluindo:
+O calendário escolar da turma organizado por dia e mês, incluindo:
 
 - 🏠 Para Casa
 - 📝 Atividades
@@ -30,14 +30,14 @@ O calendario escolar da turma organizado por dia e mês, incluindo:
 
 Acesse os materiais organizados por disciplina:
 
-- ➗ [Matemática – MA](central-de-estudos/MA/)
-- 📖 [Língua Portuguesa – LP](central-de-estudos/LP/)
-- 🔬 [Ciências – CI](central-de-estudos/CI/)
-- 🌎 [Geografia – GE](central-de-estudos/GE/)
-- 📜 [História – HI](central-de-estudos/HI/)
-- 🇪🇸 [Língua Estrangeira – LE](central-de-estudos/LE/)
-- ✝️ [Ensino Religioso – ER](central-de-estudos/ER/)
-- 💡 [PIIL](central-de-estudos/PIIL/)
+- ➗ [Matemática – MA](central-de-estudos/MA/index.md)
+- 📖 [Língua Portuguesa – LP](central-de-estudos/LP/index.md)
+- 🔬 [Ciências – CI](central-de-estudos/CI/index.md)
+- 🌎 [Geografia – GE](central-de-estudos/GE/index.md)
+- 📜 [História – HI](central-de-estudos/HI/index.md)
+- 🇪🇸 [Língua Estrangeira – LE](central-de-estudos/LE/index.md)
+- ✝️ [Ensino Religioso – ER](central-de-estudos/ER/index.md)
+- 💡 [PIIL](central-de-estudos/PIIL/index.md)
 
 ## 📌 O que você encontra aqui
 
@@ -47,5 +47,3 @@ Na **Central de Estudos**, estão disponíveis os materiais de apoio, como:
 - 📝 Materiais para Avaliações
 - 🎥 Vídeos de apoio
 - 📎 Materiais complementares
-
----
