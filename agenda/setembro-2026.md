@@ -25,4 +25,4 @@
 
 ---
 
-[⬅️ Voltar para Página Inicial](../pagina_inicial.md)
+[⬅️ Voltar para Página Inicial](../index.md)
