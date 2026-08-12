@@ -1,22 +1,23 @@
-# 📚 Central de Estudos
+# ✝️ Ensino Religioso – ER
 
-> **Disciplina:** Ensino Religioso (ER)  
-> **Avaliação:** Avaliação de Rede  
-> **Data:** 14/08/2026  
-> **Etapa:** 2ª Etapa
+> **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
 ---
 
-# 📄 Material de Estudo
+# 📚 Materiais de Estudo
 
-📄 [Trilha de Estudos](trilha-estudos-ER-avaliacao-rede-14-08.pdf)
+## 📘 2ª Etapa
 
----
+### 14/08/2026 — Avaliação de Rede
 
-# 📌 Observações
-
-- Material disponibilizado para preparação da Avaliação de Rede.
+📚 [Acessar materiais da avaliação](2-etapa/14-08-26-avaliacao-de-rede/)
 
 ---
 
-[⬅️ Voltar para Agosto](../../../../agenda/agosto-2026.md)
+## 📘 3ª Etapa
+
+*Os materiais serão adicionados conforme disponibilizados pela escola.*
+
+---
+
+[⬅️ Voltar para Rotina Escolar](../../index.md)
