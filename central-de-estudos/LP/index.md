@@ -10,7 +10,7 @@
 
 ### 18/08/2026 — Avaliação de Rede
 
-📚 [Acessar materiais da avaliação](2-etapa/18-08-26-avaliação-de-rede/)
+📚 [Trilha de Estudos](2-etapa/18-08-26-avaliação-de-rede/trilha-estudos-LP-avaliacao-rede-18-08.pdf)
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-[⬅️ Voltar para Rotina Escolar](../../index.md)
+[⬅️ Voltar para Página Inicial](../../index.md)
