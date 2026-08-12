@@ -39,7 +39,7 @@ Acesse os materiais organizados por disciplina:
 - 📜 [História – HI](central-de-estudos/HI/index.md)
 - 🇪🇸 [Língua Estrangeira – LE](central-de-estudos/LE/index.md)
 - ✝️ [Ensino Religioso – ER](central-de-estudos/ER/index.md)
-- 💡 [PIIL](central-de-estudos/PIIL/index.md)
+- 💡 [Programa de Iniciação à Investigação e à Leitura - PIIL](central-de-estudos/PIIL/index.md)
 
 ### 📌 Materiais disponíveis
 
