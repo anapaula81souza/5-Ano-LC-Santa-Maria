@@ -1,4 +1,4 @@
-# 🇪🇸 Língua Estrangeira – LE
+# 📜 História – HI
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
@@ -8,17 +8,9 @@
 
 ## 📘 2ª Etapa
 
-### 10/08/2026 — Avaliação de Rede
+### 21/08/2026 — Avaliação de Rede
 
-📚 [Acessar materiais da avaliação](2-etapa/10-08-26-avaliacao-de-rede/)
-
----
-
-### 17/08/2026 — Atividade
-
-📖 Livro didático: leitura da pág. **66** e atividade de interpretação da pág. **67**.
-
-🕚 **Prazo:** 17/08/2026 até **11h00**
+📚 [Trilha de Estudos](2-etapa/21-08-26-avaliacao-de-rede/trilha-estudos-HI-avaliacao-rede-21-08.pdf)
 
 ---
 
@@ -28,4 +20,4 @@
 
 ---
 
-[⬅️ Voltar para Rotina Escolar](../../index.md)
+[⬅️ Voltar para Página Inicial](../../index.md)
