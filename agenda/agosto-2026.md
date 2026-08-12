@@ -20,7 +20,7 @@
 
 ---
 
-# ❗ Importante — Avaliações e Trabalhos no mês
+# ⚠️ Importante: Avaliações e Trabalhos no mês
 
 
 ## 12/08 — Quarta-feira
