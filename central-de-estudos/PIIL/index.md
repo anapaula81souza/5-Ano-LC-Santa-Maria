@@ -1,4 +1,4 @@
-# 💡 PIIL
+# 💡 PIIL – Programa de Iniciação à Investigação e à Leitura
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
