@@ -1,4 +1,4 @@
-# 🗓️ Rotina Escolar
+# 🗓️ Acompanhamento da Rotina Escolar
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
