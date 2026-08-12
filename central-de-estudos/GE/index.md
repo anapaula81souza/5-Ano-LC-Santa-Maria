@@ -10,7 +10,7 @@
 
 ### 19/08/2026 — Avaliação de Rede
 
-📚 [Acessar materiais da avaliação](2-etapa/19-08-26-avaliacao-de-rede/)
+📚 [Trilha de Estudos](2-etapa/19-08-26-avaliacao-de-rede/trilha-estudos-GE-avaliacao-rede-19-08.pdf)
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-[⬅️ Voltar para Rotina Escolar](../../index.md)
+[⬅️ Voltar para Página Inicial](../../index.md)
