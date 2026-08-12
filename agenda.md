@@ -45,8 +45,6 @@ Na **Central de Estudos**, estão disponíveis os materiais de apoio, como:
 
 - 📚 Trilhas de Estudos
 - 📝 Materiais para Avaliações
-- 📄 Atividades
-- 📁 Projetos e Trabalhos
 - 🎥 Vídeos de apoio
 - 📎 Materiais complementares
 
