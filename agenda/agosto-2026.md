@@ -77,6 +77,24 @@
 
 📚 [Trilha de Estudos](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/trilha-estudos-MA-avaliacao-rede-20-08.pdf)
 
+▶️ [Sistema de Numeração Decimal](https://www.youtube.com/watch?v=PWWRF3XAYmc)
+
+▶️ [Composição e Decomposição](https://www.youtube.com/watch?v=gjs_noey0tE)
+
+▶️ [Resolução de Problemas e Sistema Monetário](https://www.youtube.com/watch?v=fK5ihOnLTbs)
+
+▶️ [Movimento e Coordenadas](https://www.youtube.com/watch?v=EzvFVYKVBZM)
+
+▶️ [Figuras Geométricas Planas e Espaciais](https://www.youtube.com/watch?v=w2i8HXGS8SQ)
+
+▶️ [Temperatura](https://www.youtube.com/watch?v=Vfl_RCFsO4g)
+
+▶️ [Medida de Tempo](https://www.youtube.com/watch?v=B-l5HEXoGnM)
+
+▶️ [Leitura de Gráficos e Tabelas](https://www.youtube.com/watch?v=z7WGi93gky4)
+
+▶️ [Sistema Monetário Brasileiro](https://www.youtube.com/watch?v=FI7FG7oGeeo)
+
 ---
 
 ## 21/08 — Sexta-feira
