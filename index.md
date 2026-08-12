@@ -32,13 +32,13 @@ O calendário escolar da turma está organizado por dia e mês, incluindo:
 
 Acesse os materiais organizados por disciplina:
 
-- ➗ [Matemática – MA](central-de-estudos/MA/index.md)
-- 📖 [Língua Portuguesa – LP](central-de-estudos/LP/index.md)
 - 🔬 [Ciências – CI](central-de-estudos/CI/index.md)
+- ✝️ [Ensino Religioso – ER](central-de-estudos/ER/index.md)
 - 🌎 [Geografia – GE](central-de-estudos/GE/index.md)
 - 📜 [História – HI](central-de-estudos/HI/index.md)
 - 🇪🇸 [Língua Estrangeira – LE](central-de-estudos/LE/index.md)
-- ✝️ [Ensino Religioso – ER](central-de-estudos/ER/index.md)
+- 📖 [Língua Portuguesa – LP](central-de-estudos/LP/index.md)
+- ➗ [Matemática – MA](central-de-estudos/MA/index.md)
 - 💡 [Programa de Iniciação à Investigação e à Leitura - PIIL](central-de-estudos/PIIL/index.md)
 
 ### 📌 Materiais disponíveis
