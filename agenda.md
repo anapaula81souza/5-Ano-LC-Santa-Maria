@@ -1,4 +1,4 @@
-# 🗓️ Rotina Escolar
+# 🗓️ Rotina e Organização Escolar
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**
 
@@ -14,7 +14,7 @@ Escolha o mês que deseja consultar:
 - 📅 [Novembro de 2026](agenda/novembro-2026.md)
 - 📅 [Dezembro de 2026](agenda/dezembro-2026.md)
 
-## 📌 O que você encontra aqui
+### 📌 O que você encontra aqui
 
 O calendário escolar da turma organizado por dia e mês, incluindo:
 
@@ -39,11 +39,22 @@ Acesse os materiais organizados por disciplina:
 - ✝️ [Ensino Religioso – ER](central-de-estudos/ER/index.md)
 - 💡 [PIIL](central-de-estudos/PIIL/index.md)
 
-## 📌 O que você encontra aqui
+### 📌 O que você encontra aqui
 
-Na **Central de Estudos**, estão disponíveis os materiais de apoio, como:
+Na **Central de Estudos**, os materiais estão organizados por disciplina, etapa e avaliação/projeto:
 
 - 📚 Trilhas de Estudos
 - 📝 Materiais para Avaliações
+- 📁 Projetos e Trabalhos
 - 🎥 Vídeos de apoio
 - 📎 Materiais complementares
+
+---
+
+## 🧭 Como navegar
+
+**Para acompanhar a rotina:**  
+📅 Calendário → Mês → Dia
+
+**Para estudar:**  
+📚 Central de Estudos → Disciplina → Etapa → Avaliação ou Projeto
