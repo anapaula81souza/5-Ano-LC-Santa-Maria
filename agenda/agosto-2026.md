@@ -26,7 +26,7 @@
 
 ~~📝 **Avaliação de Rede – LE**~~
 
-📚 ~~[Trilha de Estudos](https://github.com/anapaula81souza/5-Ano-LC-Santa-Maria/blob/main/central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/trilha-estudos-lingua-espanhola-avaliacao-rede-10-08.pdf)~~
+📚 ~~[Trilha de Estudos](../central-de-estudos/LE/2-etapa/10-08-26-avaliacao-de-rede/trilha-estudos-lingua-espanhola-avaliacao-rede-10-08.pdf)~~
 
 ---
 
@@ -34,7 +34,7 @@
 
 ~~📝 **Avaliação de Rede – PIIL**~~
 
-📚 ~~[Trilha de Estudos](https://github.com/anapaula81souza/5-Ano-LC-Santa-Maria/blob/main/central-de-estudos/PIIL/2-etapa/11-08-26-avaliacao-de-rede/trilha-estudos-PIIL-avaliacao-rede-11-08.pdf)~~
+📚 ~~[Trilha de Estudos](../central-de-estudos/PIIL/2-etapa/11-08-26-avaliacao-de-rede/trilha-estudos-PIIL-avaliacao-rede-11-08.pdf)~~
 
 ▶️ ~~[Assistir Vídeo 1](https://youtu.be/0b4rsDuzThE?feature=shared)~~
 
