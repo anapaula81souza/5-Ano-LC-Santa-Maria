@@ -30,7 +30,7 @@
 
 ---
 
-### 17/08/2026 — Segunda-feira
+## 17/08 — Segunda-feira
 
 📝 **Avaliação de Rede – CI**
 
