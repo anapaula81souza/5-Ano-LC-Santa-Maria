@@ -66,7 +66,7 @@
 
 📚 [Trilha de Estudos](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/trilha-estudos-MA-avaliacao-rede-20-08.pdf)
 
-📄 [Atividade de Revisão – SAS](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/Atividade_de_revisao_MA-SAS_2_ETAPA.pdf)
+📄 [Atividade de Revisão – SAS](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/Atividade_de_revisao_MA_SAS_2_ETAPA.pdf)
 
 ### 🎥 Vídeos de Apoio
 
