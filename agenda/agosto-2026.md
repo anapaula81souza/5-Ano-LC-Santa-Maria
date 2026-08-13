@@ -20,20 +20,7 @@
 
 ---
 
-# ⚠️ Avaliações e Trabalhos no mês
-
-
-## 12/08 — Quarta-feira
-
-📁 **Entrega do Projeto de LI – Unit 6**
-
-**Tema:** *Bring a research and images about a city you would like to visit.*
-
-📖 **Referência:** Livro de LI – pág. 39.
-
-📎 [Acessar material do projeto](../central-de-estudos/PIIL/2-etapa/12-08-26-projeto-ingles/)
-
----
+# ⚠️ Avaliações e Trabalhos no Mês
 
 ## 14/08 — Sexta-feira
 
@@ -69,6 +56,8 @@
 
 📚 [Trilha de Estudos](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/trilha-estudos-GE-avaliacao-rede-19-08.pdf)
 
+📄 [Atividade de Revisão – SAS](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/Atividade_de_revisao_GE_SAS_2_ETAPA.pdf)
+
 ---
 
 ## 20/08 — Quinta-feira
@@ -76,6 +65,10 @@
 📝 **Avaliação de Rede – MA**
 
 📚 [Trilha de Estudos](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/trilha-estudos-MA-avaliacao-rede-20-08.pdf)
+
+📄 [Atividade de Revisão – SAS](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/Atividade_de_revisao_MA-SAS_2_ETAPA.pdf)
+
+### 🎥 Vídeos de Apoio
 
 ▶️ [Sistema de Numeração Decimal](https://www.youtube.com/watch?v=PWWRF3XAYmc)
 
