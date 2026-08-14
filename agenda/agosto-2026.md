@@ -20,7 +20,7 @@
 
 ---
 
-# ⚠️ Avaliações e Trabalhos no Mês
+# ⚠️ Proximas Avaliações e Trabalhos do Mês
 
 ## 17/08 — Segunda-feira
 
