@@ -34,7 +34,7 @@
 
 📝 **Avaliação de Rede – CI**
 
-📚 [Trilha de Estudos](2-etapa/17-08-26-avaliacao-de-rede/trilha-estudos-CI-avaliacao-rede-17-08.pdf)
+📚 [Trilha de Estudos](../central-de-estudos/CI/2-etapa/17-08-26-avaliacao-de-rede/trilha-estudos-CI-avaliacao-rede-17-08.pdf)
 
 ### 🎥 Vídeos de Apoio
 
