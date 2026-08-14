@@ -22,16 +22,6 @@
 
 # ⚠️ Avaliações e Trabalhos no Mês
 
-## 14/08 — Sexta-feira
-
-📝 **Avaliação de Rede – ER**
-
-📚 [Trilha de Estudos](../central-de-estudos/ER/2-etapa/14-08-26-avaliacao-de-rede/trilha-estudos-ER-avaliacao-rede-14-08.pdf)
-
-Capítulos **2 e 3**, e anotações do caderno.
-
----
-
 ## 17/08 — Segunda-feira
 
 📝 **Avaliação de Rede – CI**
