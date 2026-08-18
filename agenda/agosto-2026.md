@@ -22,17 +22,11 @@
 
 # ⚠️ Proximas Avaliações e Trabalhos do Mês
 
-## 18/08 — Terça-feira
-
-📝 **Avaliação de Rede – LP**
-
-📚 [Trilha de Estudos](../central-de-estudos/LP/2-etapa/18-08-26-avaliacao-de-rede/trilha-estudos-LP-avaliacao-rede-18-08.pdf)
-
----
-
 ## 19/08 — Quarta-feira
 
 📝 **Avaliação de Rede – GE**
+
+🚀 **Missões Eureka – Caps. 6 (8 e 9)**
 
 📚 [Trilha de Estudos](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/trilha-estudos-GE-avaliacao-rede-19-08.pdf)
 
