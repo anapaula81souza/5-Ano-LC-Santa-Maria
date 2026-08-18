@@ -22,26 +22,6 @@
 
 # ⚠️ Proximas Avaliações e Trabalhos do Mês
 
-## 17/08 — Segunda-feira
-
-📝 **Avaliação de Rede – CI**
-
-📚 [Trilha de Estudos](../central-de-estudos/CI/2-etapa/17-08-26-avaliacao-de-rede/trilha-estudos-CI-avaliacao-rede-17-08.pdf)
-
-### 🎥 Vídeos de Apoio
-
-▶️ [Assistir Vídeo 1](https://www.youtube.com/watch?v=EKdwpa7RaAs)
-
-▶️ [Assistir Vídeo 2](https://www.youtube.com/watch?v=0K93zDxPA9Y)
-
-▶️ [Assistir Vídeo 3](https://www.youtube.com/watch?v=RXIBBhVV1l4)
-
-⏰ **Prazo Final – Atividade de LE**
-
-🇪🇸 Livro didático: leitura da pág. **66** e atividade de interpretação da pág. **67** 🕚 **Prazo:** 17/08/2026 até **11h00**
-
----
-
 ## 18/08 — Terça-feira
 
 📝 **Avaliação de Rede – LP**
