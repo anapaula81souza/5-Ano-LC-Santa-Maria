@@ -20,61 +20,18 @@
 
 ---
 
-# ⚠️ Proximas Avaliações e Trabalhos do Mês
+# ⚠️ Próximas Avaliações e Trabalhos do Mês
 
-## 19/08 — Quarta-feira
+## 24/08 — Segunda-feira
 
-📝 **Avaliação de Rede – GE**
+🌎 **Projeto – Meio Ambiente**
 
-🚀 **Missões Eureka – Caps. 6 (8 e 9)**
+🇬🇧 Trazer **frases em inglês** sobre:
 
-📚 [Trilha de Estudos](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/trilha-estudos-GE-avaliacao-rede-19-08.pdf)
+- o que fazer para a **preservação do meio ambiente**;
+- o que **não fazer** para evitar a destruição do meio ambiente.
 
-📄 [Atividade de Revisão – SAS](../central-de-estudos/GE/2-etapa/19-08-26-avaliacao-de-rede/Atividade_de_revisao_GE_SAS_2_ETAPA.pdf)
-
----
-
-## 20/08 — Quinta-feira
-
-📝 **Avaliação de Rede – MA**
-
-📚 [Trilha de Estudos](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/trilha-estudos-MA-avaliacao-rede-20-08.pdf)
-
-📄 [Atividade de Revisão – SAS](../central-de-estudos/MA/2-etapa/20-08-26-avaliacao-de-rede/Atividade_de_revisao_MA_SAS_2_ETAPA.pdf)
-
-### 🎥 Vídeos de Apoio
-
-▶️ [Sistema de Numeração Decimal](https://www.youtube.com/watch?v=PWWRF3XAYmc)
-
-▶️ [Composição e Decomposição](https://www.youtube.com/watch?v=gjs_noey0tE)
-
-▶️ [Resolução de Problemas e Sistema Monetário](https://www.youtube.com/watch?v=fK5ihOnLTbs)
-
-▶️ [Movimento e Coordenadas](https://www.youtube.com/watch?v=EzvFVYKVBZM)
-
-▶️ [Figuras Geométricas Planas e Espaciais](https://www.youtube.com/watch?v=w2i8HXGS8SQ)
-
-▶️ [Temperatura](https://www.youtube.com/watch?v=Vfl_RCFsO4g)
-
-▶️ [Medida de Tempo](https://www.youtube.com/watch?v=B-l5HEXoGnM)
-
-▶️ [Leitura de Gráficos e Tabelas](https://www.youtube.com/watch?v=z7WGi93gky4)
-
-▶️ [Sistema Monetário Brasileiro](https://www.youtube.com/watch?v=FI7FG7oGeeo)
-
----
-
-## 21/08 — Sexta-feira
-
-📝 **Avaliação de Rede – HI**
-
-📚 [Trilha de Estudos](../central-de-estudos/HI/2-etapa/21-08-26-avaliacao-de-rede/trilha-estudos-HI-avaliacao-rede-21-08.pdf)
-
----
-
-## 22/08 — Sábado
-
-🏫 **Sábado Letivo**
+🖼️ Trazer **imagens para compor o trabalho em sala**.
 
 ---
 
@@ -83,5 +40,3 @@
 🏫 **Sábado Letivo**
 
 ---
-
-[⬅️ Voltar para Página Inicial](../index.md)
