@@ -22,16 +22,15 @@
 
 # ⚠️ Próximas Avaliações e Trabalhos do Mês
 
-## 24/08 — Segunda-feira
+## 26/08 — Quarta-feira
 
-🌎 **Projeto – Meio Ambiente**
+🏠 **MA – Projeto Casas de Palavras**
 
-🇬🇧 Trazer **frases em inglês** sobre:
+📒 Trazer a atividade **Casas de Palavras no caderno de MA**.
 
-- o que fazer para a **preservação do meio ambiente**;
-- o que **não fazer** para evitar a destruição do meio ambiente.
+📝 **Atividade Avaliativa**
 
-🖼️ Trazer **imagens para compor o trabalho em sala**.
+📅 **Prazo: 26/08/2026**
 
 ---
 
@@ -40,3 +39,5 @@
 🏫 **Sábado Letivo**
 
 ---
+
+[⬅️ Voltar para Página Inicial](../index.md)
