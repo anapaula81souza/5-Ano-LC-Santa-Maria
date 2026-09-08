@@ -20,20 +20,6 @@
 
 ---
 
-# ⚠️ Próximas Avaliações e Trabalhos do Mês
-
-## 26/08 — Quarta-feira
-
-🏠 **MA – Projeto Casas de Palavras**
-
-📒 Trazer a atividade **Casas de Palavras no caderno de MA**.
-
-📝 **Atividade Avaliativa**
-
-📅 **Prazo: 26/08/2026**
-
----
-
 ## 29/08 — Sábado
 
 🏫 **Sábado Letivo**
