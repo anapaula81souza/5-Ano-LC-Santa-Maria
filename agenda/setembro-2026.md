@@ -21,35 +21,36 @@
 
 # ⚠️ Próximas Avaliações e Trabalhos do Mês
 
-## 08/09 — Terça-feira
+## 15/09 — Terça-feira
 
-📖 **LP – Atividade na Árvore Livros**
+### 📜 HI – Atividade
 
-📚 Livro: *Turminha de Impacto – 100 formas de impactar o mundo*
+✏️ **Copiar as perguntas e respostas no caderno de HI:**
 
-✍️ **Autora:** Néglia
+1. Qual é a principal religião da Índia?
+2. Sobre a Índia Antiga e sua religião, qual é a principal característica dessa religião praticada por milhões de indianos?
+3. Por que os primeiros povos da Índia escolheram se fixar em regiões próximas aos rios Indo e Ganges?
+4. Para que serviam e ainda são utilizadas as especiarias que vieram da Índia?
 
-🌳 Realizar a atividade disponibilizada na plataforma **Árvore Livros**.
+📅 **Prazo: 15/09/2026**
 
 ---
 
-## 11/09 — Sexta-feira
+### 🌎 GE – Atividade de Fixação – 2ª Parte
 
-📖 **LP – Leitura e Atividade**
+✏️ **Responder as questões 6 a 10:**
 
-📚 **Livro:** *Um passeio pelas estrelas*
+**6.** Cite duas características das cidades industriais e dê um exemplo de cidade que exerce essa função no Brasil.
 
-✍️ **Autora:** Renata Regina Constantino Barrela
+**7.** Qual é a principal diferença na infraestrutura e na oferta de serviços entre o centro e a periferia das grandes cidades?
 
-📝 **Atividade:** produção de texto discursivo relacionando a mensagem do livro **“A grande campeã”** com o **Torneio Kids** da escola.
+**8.** O que é a mancha urbana e qual ferramenta tecnológica os cientistas utilizam para compará-la ao longo do tempo?
 
-### ✏️ Na produção, refletir sobre:
+**9.** Por que o planejamento urbano em cidades como Maringá ou Teresina ajuda a evitar problemas como engarrafamentos?
 
-1. O que significa ser um verdadeiro campeão dentro e fora das quadras?
-2. Como os valores de esforço, amizade e respeito podem ser aplicados durante o torneio?
-3. De que maneira a história da personagem pode inspirar você e seus colegas a participarem do evento com entusiasmo e espírito esportivo?
+**10.** Uma única cidade pode desempenhar mais de uma função ao mesmo tempo? Justifique sua resposta utilizando o exemplo de Ouro Preto (MG).
 
-📅 **Prazo: 11/09/2026**
+📅 **Prazo: 15/09/2026**
 
 ---
 
