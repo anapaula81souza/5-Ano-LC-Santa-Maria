@@ -35,7 +35,25 @@
 
 ⏰ **Prazo final: 27/09/2026 às 23h59**
 
-> A atividade foi disponibilizada em **21/09/2026**.
+> Atividade disponibilizada em **21/09/2026**.
+
+---
+
+## 28/09 — Segunda-feira
+
+📝 **Avaliação do Sistema de Ensino – LP**
+
+---
+
+## 29/09 — Terça-feira
+
+📝 **Avaliação de Recuperação – II Etapa**
+
+---
+
+## 30/09 — Quarta-feira
+
+📝 **Avaliação de Recuperação – II Etapa**
 
 ---
 
