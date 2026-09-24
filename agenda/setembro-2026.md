@@ -25,9 +25,17 @@
 
 ---
 
-# ⚠️ Próximas Avaliações, Trabalhos e Eventos
+# ⚠️ Próximas Avaliações, Trabalhos e Atividades
 
-*No momento, não há compromissos futuros cadastrados.*
+## 27/09 — Domingo
+
+📚 **Atividade – Livro Didático**
+
+📖 Realizar as págs. **84 e 85**.
+
+⏰ **Prazo final: 27/09/2026 às 23h59**
+
+> A atividade foi disponibilizada em **21/09/2026**.
 
 ---
 
