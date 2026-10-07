@@ -32,7 +32,7 @@
 
 ## 07/10 — Quarta-feira
 
-🌎 **1ª Avaliação da Unidade – 📚 [Trilha de Estudos – GE](../central-de-estudos/GE/3-etapa/07-10-2026-Avaliacao-Unidade/TRILHA%20DE%20ESTUDOS-AVA%20DA%20UNIDADE-GE-5-%20ANO.pdf)
+🌎 **1ª Avaliação da Unidade – 📚 [Trilha de Estudos – GE](../central-de-estudos/GE/3-etapa/07-10-2026-Avaliacao-Unidade/trilha-estudos-GE-avaliacao-unidade-07-10.pdf)
 
 ---
 
