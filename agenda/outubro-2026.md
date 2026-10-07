@@ -1,4 +1,4 @@
-# 📅 Setembro de 2026
+# 📅 Outubro de 2026
 
 > **5º Ano LC – Colégio Santa Maria Minas | Unidade Contagem**  
 > **3ª Etapa**
@@ -7,50 +7,74 @@
 
 ## 📅 Calendário
 
-| Dom |         Seg         |         Ter         |         Qua         |         Qui         |         Sex         |         Sáb         |
-| :-: | :-----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-|     |                     | [01](setembro/01.md) | [02](setembro/02.md) | [03](setembro/03.md) | [04](setembro/04.md) |          05         |
-|  06 |          07         | [08](setembro/08.md) | [09](setembro/09.md) | [10](setembro/10.md) | [11](setembro/11.md) |          12         |
-|  13 | [14](setembro/14.md) | [15](setembro/15.md) | [16](setembro/16.md) | [17](setembro/17.md) | [18](setembro/18.md) |          19         |
-|  20 | [21](setembro/21.md) | [22](setembro/22.md) | [23](setembro/23.md) | [24](setembro/24.md) | [25](setembro/25.md) |          26         |
-|  27 | [28](setembro/28.md) | [29](setembro/29.md) | [30](setembro/30.md) |                     |                     |                     |
+| Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     | [01](outubro/01.md) | [02](outubro/02.md) | [03 🧺](outubro/03.md) |
+| **04 🚫** | [05](outubro/05.md) | [06](outubro/06.md) | [07](outubro/07.md) | [08](outubro/08.md) | [09](outubro/09.md) | **10 🚫** |
+| **11 🚫** | **12 🇧🇷** | **13 🏖️** | **14 🏖️** | **15 👩‍🏫** | **16 🏖️** | **17 🚫** |
+| **18 🚫** | [19](outubro/19.md) | [20](outubro/20.md) | [21](outubro/21.md) | [22](outubro/22.md) | [23](outubro/23.md) | [24 🌎](outubro/24.md) |
+| **25 🚫** | [26](outubro/26.md) | [27](outubro/27.md) | [28](outubro/28.md) | [29](outubro/29.md) | [30](outubro/30.md) | **31 🚫** |
 
-[⬅️ Agosto de 2026](agosto-2026.md) | [Outubro de 2026 ➡️](outubro-2026.md)
+### 📌 Legenda
 
----
+🚫 **Sem aula – Final de semana**  
+🇧🇷 **12/10 – Feriado – Nossa Senhora Aparecida**  
+🏖️ **13, 14 e 16/10 – Recesso Escolar**  
+👩‍🏫 **15/10 – Dia do Professor – Sem aula**  
+🧺 **03/10 – Sábado Letivo – BrincNic**  
+🌎 **24/10 – Sábado Letivo – PILI Day**
 
-# ⚠️ Próximas Avaliações e Trabalhos do Mês
-
-## 15/09 — Terça-feira
-
-### 📜 HI – Atividade
-
-✏️ **Copiar as perguntas e respostas no caderno de HI:**
-
-1. Qual é a principal religião da Índia?
-2. Sobre a Índia Antiga e sua religião, qual é a principal característica dessa religião praticada por milhões de indianos?
-3. Por que os primeiros povos da Índia escolheram se fixar em regiões próximas aos rios Indo e Ganges?
-4. Para que serviam e ainda são utilizadas as especiarias que vieram da Índia?
-
-📅 **Prazo: 15/09/2026**
+[⬅️ Setembro de 2026](setembro-2026.md) | [Novembro de 2026 ➡️](novembro-2026.md)
 
 ---
 
-### 🌎 GE – Atividade de Fixação – 2ª Parte
+# ⚠️ Próximas Avaliações, Trabalhos e Atividades
 
-✏️ **Responder as questões 6 a 10:**
+## 07/10 — Quarta-feira
 
-**6.** Cite duas características das cidades industriais e dê um exemplo de cidade que exerce essa função no Brasil.
+🌎 **1ª Avaliação da Unidade – GE**
 
-**7.** Qual é a principal diferença na infraestrutura e na oferta de serviços entre o centro e a periferia das grandes cidades?
+---
 
-**8.** O que é a mancha urbana e qual ferramenta tecnológica os cientistas utilizam para compará-la ao longo do tempo?
+## 08/10 — Quinta-feira
 
-**9.** Por que o planejamento urbano em cidades como Maringá ou Teresina ajuda a evitar problemas como engarrafamentos?
+🔬 **1ª Avaliação da Unidade – CI**
 
-**10.** Uma única cidade pode desempenhar mais de uma função ao mesmo tempo? Justifique sua resposta utilizando o exemplo de Ouro Preto (MG).
+---
 
-📅 **Prazo: 15/09/2026**
+## 19/10 — Segunda-feira
+
+📚 **Projeto SuperAutor – Prazo para aquisição do Livro Físico**
+
+🛒 A aquisição do exemplar impresso é **opcional**.
+
+📖 **Projeto:** Construindo Casas de Palavras / SuperAutor
+
+⏰ **Último dia para aquisição: 19/10/2026**
+
+---
+
+## 21/10 — Quarta-feira
+
+➗ **2ª Avaliação da Unidade – MA**
+
+---
+
+## 23/10 — Sexta-feira
+
+📖 **2ª Avaliação da Unidade – LP**
+
+---
+
+## 24/10 — Sábado
+
+🌎 **Sábado Letivo – PILI Day**
+
+---
+
+## 28/10 — Quarta-feira
+
+🎧 **LI/PILI – Listening**
 
 ---
 
