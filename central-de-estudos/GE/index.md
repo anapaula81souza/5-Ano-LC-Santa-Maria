@@ -16,7 +16,9 @@
 
 ## 📘 3ª Etapa
 
-*Os materiais serão adicionados conforme disponibilizados pela escola.*
+### 07/10/2026 — 1ª Avaliação da Unidade
+
+📚 [Trilha de Estudos](3-etapa/07-10-2026-Avaliacao-Unidade/trilha-estudos-GE-avaliacao-unidade-07-10.pdf)
 
 ---
 
